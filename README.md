@@ -100,7 +100,7 @@
 <br>
 
 <!-- Backend & API 90% -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="25" /> Backend & API Integration
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" /> Backend & API Integration
 <img src="https://img.shields.io/badge/MASTERY-90%25-147EFB?style=for-the-badge&labelColor=0D1117"/>
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -115,7 +115,7 @@
 <br>
 
 <!-- Architecture 92% -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Classical%20Building.png" alt="Architecture" width="25" /> Clean Architecture & Design Patterns
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="Architecture" width="25" /> Clean Architecture & Design Patterns
 <img src="https://img.shields.io/badge/MASTERY-92%25-5AC8FA?style=for-the-badge&labelColor=0D1117"/>
 
 ![MVVM](https://img.shields.io/badge/MVVM-0071E3?style=flat-square&logo=dotnet&logoColor=white)
@@ -146,7 +146,7 @@
 <br>
 
 <!-- DevOps 85% -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> DevOps & Publishing
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> DevOps & Publishing
 <img src="https://img.shields.io/badge/MASTERY-85%25-147EFB?style=for-the-badge&labelColor=0D1117"/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
