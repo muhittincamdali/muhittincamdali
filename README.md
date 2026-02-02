@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Transforming+code+into+breathtaking+iOS+experiences+%F0%9F%9A%80)](https://www.muhittincamdali.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Transforming+code+into+breathtaking+iOS+experiences)](https://www.muhittincamdali.com)
 
 <br>
 
@@ -69,10 +69,17 @@ final class MuhittinCamdali: SenioriOSDeveloper {
 
 <br>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Recognition
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhittincamdali&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+
+![](https://img.shields.io/badge/🎯_Pair_Extraordinaire-Achieved-0071E3?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🦈_Pull_Shark_x3-Achieved-147EFB?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/⚡_YOLO-Achieved-5AC8FA?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📱_50+_Apps-Published-0071E3?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/⭐_5.0_Rating-App_Store-147EFB?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🌍_100K+-Users-5AC8FA?style=for-the-badge&labelColor=0D1117)
+
 </div>
 
 <br>
@@ -243,12 +250,12 @@ final class MuhittinCamdali: SenioriOSDeveloper {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhittincamdali&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=0071E3&icon_color=5AC8FA&text_color=c9d1d9&ring_color=0071E3"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhittincamdali&theme=algolia&hide_border=true&background=0D1117&ring=0071E3&fire=5AC8FA&currStreakLabel=0071E3"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhittincamdali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0071E3&icon_color=5AC8FA&text_color=c9d1d9&ring_color=0071E3"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhittincamdali&hide_border=true&background=0D1117&ring=0071E3&fire=5AC8FA&currStreakLabel=0071E3&sideLabels=c9d1d9&dates=6e7681"/>
 
 <br><br>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhittincamdali&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0D1117&title_color=0071E3&text_color=c9d1d9&langs_count=8"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhittincamdali&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=0071E3&text_color=c9d1d9&langs_count=8"/>
 
 <br><br>
 
