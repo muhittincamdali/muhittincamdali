@@ -178,6 +178,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bar%20Chart.png" alt="Chart" width="30" /> &nbsp;Top Languages
+
+<div align="center">
+
+<a href="https://github.com/muhittincamdali">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=donut-vertical&theme=transparent&title_color=0071E3&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Blog" width="30" /> &nbsp;Latest Blog Posts
+
+<div align="center">
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/New%20Button.png" width="20"/> **Swift 6.0'da Neler Yeni?** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png" width="20"/> **SwiftUI vs UIKit** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> **Performance Optimization** |
+|:---:|:---:|:---:|
+| Concurrency improvements, typed throws ve ownership modeli | Modern iOS'ta SwiftUI ve UIKit karşılaştırması | Uygulamanızı %60 daha hızlı yapın |
+| ![Swift](https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS_18-0071E3?style=flat-square&logo=apple&logoColor=white) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=flat-square&logo=apple&logoColor=white) | ![Performance](https://img.shields.io/badge/Performance-5AC8FA?style=flat-square&logo=speedtest&logoColor=white) |
+| [**Read More →**](https://www.muhittincamdali.com) | [**Read More →**](https://www.muhittincamdali.com) | [**Read More →**](https://www.muhittincamdali.com) |
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" /> &nbsp;Connect With Me
 
 <div align="center">
