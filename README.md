@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:147EFB&height=230&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Developer&descSize=20&descAlignY=58"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:147EFB&height=230&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Developer&descSize=20&descAlignY=58"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:147EFB&height=230&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Developer&descSize=20&descAlignY=58"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:5AC8FA&height=200&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20iOS%20Developer&descSize=18&descAlignY=52"/>
 
 <div align="center">
 
@@ -158,4 +154,4 @@
 <br>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:147EFB&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0071E3&height=120&section=footer"/>
