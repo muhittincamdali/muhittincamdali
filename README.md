@@ -178,7 +178,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bar%20Chart.png" alt="Chart" width="30" /> &nbsp;Top Languages
+## 📊 Top Languages
 
 <div align="center">
 
@@ -192,7 +192,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Blog" width="30" /> &nbsp;Latest Blog Posts
+## 📰 Latest Blog Posts
 
 <div align="center">
 
@@ -208,7 +208,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" /> &nbsp;Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
