@@ -1,26 +1,29 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:147EFB&height=230&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Developer&descSize=20&descAlignY=58"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:147EFB&height=230&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Developer&descSize=20&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:147EFB&height=230&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Developer&descSize=20&descAlignY=58"/>
+</picture>
 
-<!-- HERO ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:0071E3,100:00D4FF&section=header&text=Muhittin%20Çamdalı&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=55&stroke=00D4FF&strokeWidth=1"/>
+<div align="center">
 
 <!-- TYPING ANIMATION -->
 <a href="https://www.muhittincamdali.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Senior+iOS+Developer;VisionOS+Pioneer+%F0%9F%A5%BD;Crafting+Digital+Masterpieces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Crafting+breathtaking+iOS+experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- ANIMATED STATS -->
+<!-- STATS BADGES -->
 <a href="https://www.muhittincamdali.com">
-  <img src="https://img.shields.io/badge/📱%20APPS%20PUBLISHED-50+-0071E3?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📱_Apps_Published-50+-0071E3?style=for-the-badge&labelColor=0D1117"/>
 </a>
 &nbsp;
 <a href="https://www.muhittincamdali.com">
-  <img src="https://img.shields.io/badge/⚡%20EXPERIENCE-10%2B%20YEARS-00D4FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/⏱️_Experience-10+_Years-147EFB?style=for-the-badge&labelColor=0D1117"/>
 </a>
 &nbsp;
 <a href="https://www.muhittincamdali.com">
-  <img src="https://img.shields.io/badge/🌍%20GLOBAL%20USERS-100K+-147EFB?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🌍_Global_Users-100K+-5AC8FA?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
 <br><br>
@@ -29,7 +32,7 @@
 <img src="https://komarev.com/ghpvc/?username=muhittincamdali&style=for-the-badge&color=0071E3&label=PROFILE+VIEWS"/>
 &nbsp;
 <a href="https://github.com/muhittincamdali?tab=followers">
-  <img src="https://img.shields.io/github/followers/muhittincamdali?style=for-the-badge&color=00D4FF&labelColor=0D1117&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/followers/muhittincamdali?style=for-the-badge&color=147EFB&labelColor=0D1117&label=FOLLOWERS"/>
 </a>
 
 </div>
@@ -107,20 +110,6 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> &nbsp;GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhittincamdali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=0071E3&text_color=FFFFFF&ring_color=00D4FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhittincamdali&hide_border=true&background=0D1117&ring=00D4FF&fire=0071E3&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=6e7681" />
-</div>
-
-<br>
-
-<!-- WAVE SEPARATOR -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
-<br>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp;Contribution Graph
 
 <div align="center">
@@ -169,4 +158,4 @@
 <br>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,50:0071E3,100:00D4FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:147EFB&height=120&section=footer"/>
