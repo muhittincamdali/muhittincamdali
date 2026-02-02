@@ -22,14 +22,6 @@
   <img src="https://img.shields.io/badge/🌍_Global_Users-100K+-5AC8FA?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
-<br><br>
-
-<!-- PROFILE COUNTERS -->
-<img src="https://komarev.com/ghpvc/?username=muhittincamdali&style=for-the-badge&color=0071E3&label=PROFILE+VIEWS"/>
-&nbsp;
-<a href="https://github.com/muhittincamdali?tab=followers">
-  <img src="https://img.shields.io/github/followers/muhittincamdali?style=for-the-badge&color=147EFB&labelColor=0D1117&label=FOLLOWERS"/>
-</a>
 
 </div>
 
