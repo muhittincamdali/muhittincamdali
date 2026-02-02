@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Transforming+code+into+breathtaking+iOS+experiences)](https://www.muhittincamdali.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&repeat=true&width=550&height=28&lines=Crafting+breathtaking+iOS+experiences+🚀)](https://www.muhittincamdali.com)
 
 <br>
 
