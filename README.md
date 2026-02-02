@@ -331,9 +331,9 @@ VP Engineering, SocialApp Inc
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake.svg"/>
 </picture>
 </div>
 
@@ -347,7 +347,6 @@ VP Engineering, SocialApp Inc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhittincamdali)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhittincamdali)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@muhittincamdali.com)
-[![App Store](https://img.shields.io/badge/App_Store-My_Apps-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/developer/id123456789)
 
 <br><br>
 
