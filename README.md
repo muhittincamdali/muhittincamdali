@@ -2,14 +2,12 @@
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
 <a href="https://www.muhittincamdali.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Crafting+breathtaking+iOS+experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- STATS BADGES -->
 <a href="https://www.muhittincamdali.com">
   <img src="https://img.shields.io/badge/📱_Apps_Published-50+-0071E3?style=for-the-badge&labelColor=0D1117"/>
 </a>
@@ -22,13 +20,11 @@
   <img src="https://img.shields.io/badge/🌍_Global_Users-100K+-5AC8FA?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
-
 </div>
 
-<!-- WAVE SEPARATOR -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="35" /> &nbsp;About Me
 
@@ -93,10 +89,9 @@
 
 </div>
 
-<!-- WAVE SEPARATOR -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp;Contribution Graph
 
@@ -110,10 +105,7 @@
 
 <br>
 
-<!-- WAVE SEPARATOR -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" /> &nbsp;Connect With Me
 
@@ -145,5 +137,4 @@
 
 <br>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0071E3&height=120&section=footer"/>
