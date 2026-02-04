@@ -239,3 +239,15 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0071E3&height=120&section=footer"/>
+
+---
+
+## 📈 Star History
+
+<a href="https://star-history.com/#muhittincamdali/muhittincamdali&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=muhittincamdali/muhittincamdali&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=muhittincamdali/muhittincamdali&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=muhittincamdali/muhittincamdali&type=Date" />
+ </picture>
+</a>
