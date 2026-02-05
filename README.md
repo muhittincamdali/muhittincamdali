@@ -245,6 +245,15 @@
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
+<!-- Spotify Now Playing -->
+<!-- To activate: Visit https://spotify-github-profile.kittinanx.com/api/login to authorize, -->
+<!-- then replace YOUR_SPOTIFY_ID with your Spotify user ID and uncomment the img tag below. -->
+<!-- <div align="center"> -->
+<!--   <a href="https://spotify-github-profile.kittinanx.com"> -->
+<!--     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=0071E3&bar_color_cover=true" alt="Spotify Now Playing" /> -->
+<!--   </a> -->
+<!-- </div> -->
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> &nbsp;Connect With Me
 
 <div align="center">
