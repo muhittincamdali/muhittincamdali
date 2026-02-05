@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:5AC8FA&height=200&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20iOS%20Developer%20%7C%20VisionOS%20Explorer&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:5AC8FA&height=200&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20iOS%20Developer%20%7C%20VisionOS%20Explorer&descSize=18&descAlignY=52" alt=""/>
 
 <div align="center">
 
@@ -9,26 +9,26 @@
 <br><br>
 
 <a href="https://www.muhittincamdali.com">
-  <img src="https://img.shields.io/badge/⏱️_Experience-10+_Years-0071E3?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/⏱️_Experience-10+_Years-0071E3?style=for-the-badge&labelColor=0D1117" alt="10+ years experience"/>
 </a>
 &nbsp;
 <a href="https://github.com/muhittincamdali?tab=repositories">
-  <img src="https://img.shields.io/badge/📦_Open_Source_Repos-60+-147EFB?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📦_Open_Source_Repos-60+-147EFB?style=for-the-badge&labelColor=0D1117" alt="60+ open source repositories"/>
 </a>
 &nbsp;
 <a href="https://github.com/muhittincamdali?tab=repositories">
-  <img src="https://img.shields.io/badge/🍎_Primary_Language-Swift-F05138?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🍎_Primary_Language-Swift-F05138?style=for-the-badge&labelColor=0D1117" alt="Primary language Swift"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=muhittincamdali&style=for-the-badge&color=0071E3&labelColor=0D1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=muhittincamdali&style=for-the-badge&color=0071E3&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile views counter"/>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" /> &nbsp;About Me
 
@@ -48,7 +48,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" /> &nbsp;Currently Working On
 
@@ -65,7 +65,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Featured Projects
 
@@ -105,13 +105,13 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Stack
 
 <div align="center">
 
-#### Core
+### Core
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
@@ -131,12 +131,12 @@
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
 ![AVFoundation](https://img.shields.io/badge/AVFoundation-147EFB?style=flat-square&logo=apple&logoColor=white)
-![Core Animation](https://img.shields.io/badge/Core_Animation-5AC8FA?style=flat-square&logo=apple&logoColor=white)
-![WidgetKit](https://img.shields.io/badge/WidgetKit-5AC8FA?style=flat-square&logo=apple&logoColor=white)
+![Core Animation](https://img.shields.io/badge/Core_Animation-3A96D3?style=flat-square&logo=apple&logoColor=white)
+![WidgetKit](https://img.shields.io/badge/WidgetKit-3A96D3?style=flat-square&logo=apple&logoColor=white)
 ![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
 ![StoreKit](https://img.shields.io/badge/StoreKit-147EFB?style=flat-square&logo=apple&logoColor=white)
 ![Core Location](https://img.shields.io/badge/Core_Location-147EFB?style=flat-square&logo=apple&logoColor=white)
-![Core Bluetooth](https://img.shields.io/badge/Core_Bluetooth-5AC8FA?style=flat-square&logo=apple&logoColor=white)
+![Core Bluetooth](https://img.shields.io/badge/Core_Bluetooth-3A96D3?style=flat-square&logo=apple&logoColor=white)
 ![Push Notifications](https://img.shields.io/badge/APNs-FF3B30?style=flat-square&logo=apple&logoColor=white)
 ![Alamofire](https://img.shields.io/badge/Alamofire-F05138?style=flat-square&logo=swift&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white)
@@ -154,7 +154,7 @@
 
 ![MVVM](https://img.shields.io/badge/MVVM-0071E3?style=flat-square&logo=dotnet&logoColor=white)
 ![VIPER](https://img.shields.io/badge/VIPER-147EFB?style=flat-square&logo=v&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-5AC8FA?style=flat-square&logo=apple&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3A96D3?style=flat-square&logo=apple&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-147EFB?style=flat-square&logo=solid&logoColor=white)
 ![Protocol-Oriented](https://img.shields.io/badge/Protocol_Oriented-F05138?style=flat-square&logo=swift&logoColor=white)
 
@@ -178,7 +178,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> &nbsp;GitHub Stats
 
@@ -204,7 +204,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp;Contribution Graph
 
@@ -218,7 +218,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="30" /> &nbsp;Activity Graph
 
@@ -232,7 +232,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> &nbsp;Connect With Me
 
@@ -243,23 +243,23 @@
 <br>
 
 <a href="https://www.muhittincamdali.com">
-  <img src="https://img.shields.io/badge/WEBSITE-muhittincamdali.com-0071E3?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/WEBSITE-muhittincamdali.com-0071E3?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Website"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/muhittincamdali">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://x.com/muhittincamdali">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X (Twitter)"/>
 </a>
 &nbsp;
 <a href="mailto:contact@muhittincamdali.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0071E3&height=120&section=footer"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0071E3&height=120&section=footer"/>
