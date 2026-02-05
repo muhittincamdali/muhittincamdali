@@ -77,7 +77,7 @@
   <!-- Subtitle with fade-in -->
   <text class="subtitle-text" x="425" y="140" text-anchor="middle" font-size="18" font-weight="400" letter-spacing="0.5" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="2.8s" fill="freeze"/>
-    Senior iOS Developer  ·  VisionOS Explorer
+    Senior iOS &amp; Mobile Developer  ·  Swift  ·  Flutter
   </text>
 
   <!-- Bottom decorative line -->
