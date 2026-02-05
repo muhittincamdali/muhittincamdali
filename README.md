@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0071E3,100:5AC8FA&height=200&section=header&text=Muhittin%20Çamdalı&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20iOS%20Developer%20%7C%20VisionOS%20Explorer&descSize=18&descAlignY=52" alt=""/>
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Muhittin Çamdalı - Senior iOS Developer" />
+</div>
 
 <div align="center">
 
@@ -26,6 +28,8 @@
 
 </div>
 
+<br>
+
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" /> &nbsp;About Me
@@ -44,6 +48,8 @@
 
 </div>
 
+<br>
+
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" /> &nbsp;Currently Working On
@@ -59,59 +65,36 @@
 
 </div>
 
+<br>
+
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
-<details open>
-<summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Featured Projects</h2></summary>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/muhittincamdali/iOSAppTemplates">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOSAppTemplates&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOSAppTemplates&theme=transparent&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="iOSAppTemplates" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOSAppTemplates&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOSAppTemplates&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" alt="iOSAppTemplates" />
 </a>
 &nbsp;
 <a href="https://github.com/muhittincamdali/iOS-Widget-Development-Kit">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOS-Widget-Development-Kit&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOS-Widget-Development-Kit&theme=transparent&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="iOS-Widget-Development-Kit" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOS-Widget-Development-Kit&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOS-Widget-Development-Kit&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" alt="iOS-Widget-Development-Kit" />
 </a>
 
 <a href="https://github.com/muhittincamdali/SwiftUI-Design-System-Pro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Design-System-Pro&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Design-System-Pro&theme=transparent&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="SwiftUI-Design-System-Pro" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Design-System-Pro&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Design-System-Pro&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" alt="SwiftUI-Design-System-Pro" />
 </a>
 &nbsp;
 <a href="https://github.com/muhittincamdali/SwiftAI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftAI&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftAI&theme=transparent&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="SwiftAI" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftAI&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftAI&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" alt="SwiftAI" />
 </a>
 
 <a href="https://github.com/muhittincamdali/SwiftIntelligence">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftIntelligence&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftIntelligence&theme=transparent&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="SwiftIntelligence" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftIntelligence&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftIntelligence&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" alt="SwiftIntelligence" />
 </a>
 &nbsp;
 <a href="https://github.com/muhittincamdali/SwiftUI-Data-Visualization">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Data-Visualization&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Data-Visualization&theme=transparent&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="SwiftUI-Data-Visualization" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Data-Visualization&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Data-Visualization&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" alt="SwiftUI-Data-Visualization" />
 </a>
 
 <br>
@@ -122,7 +105,7 @@
 
 </div>
 
-</details>
+<br>
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
@@ -195,63 +178,61 @@
 
 </div>
 
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
-
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=muhittincamdali&show_icons=true&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=muhittincamdali&show_icons=true&theme=transparent&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true&rank_icon=github" />
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhittincamdali&show_icons=true&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true&rank_icon=github" />
-</picture>
-
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=muhittincamdali&theme=transparent&hide_border=true&ring=0071E3&fire=F05138&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=888888&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=muhittincamdali&theme=transparent&hide_border=true&ring=0071E3&fire=F05138&currStreakLabel=0071E3&sideLabels=333333&dates=888888&background=ffffff&currStreakNum=333333&sideNums=333333" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=muhittincamdali&theme=transparent&hide_border=true&ring=0071E3&fire=F05138&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=888888&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&theme=transparent&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&theme=transparent&title_color=0071E3&text_color=333333&bg_color=ffffff&hide_border=true&langs_count=8" />
-  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&theme=transparent&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8" />
-</picture>
-
-</div>
-
-</details>
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
-<details>
-<summary><h2>📈 Contribution Activity</h2></summary>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> &nbsp;GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake.svg"/>
-</picture>
+<a href="https://github.com/muhittincamdali">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhittincamdali&show_icons=true&theme=transparent&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</a>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhittincamdali&theme=react-dark&bg_color=0D1117&hide_border=true&line=0071E3&point=5AC8FA&color=FFFFFF&area=true&area_color=0071E3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhittincamdali&theme=minimal&bg_color=ffffff&hide_border=true&line=0071E3&point=5AC8FA&color=333333&area=true&area_color=5AC8FA" />
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=muhittincamdali&theme=react-dark&bg_color=0D1117&hide_border=true&line=0071E3&point=5AC8FA&color=FFFFFF&area=true&area_color=0071E3" width="95%"/>
-</picture>
+<a href="https://github.com/muhittincamdali">
+  <img src="https://streak-stats.demolab.com?user=muhittincamdali&theme=transparent&hide_border=true&ring=0071E3&fire=F05138&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=888888&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+</a>
+
+<br>
+
+<a href="https://github.com/muhittincamdali">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&theme=transparent&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
-</details>
+<br>
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp;Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<br>
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="30" /> &nbsp;Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/muhittincamdali">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhittincamdali&theme=react-dark&bg_color=0D1117&hide_border=true&line=0071E3&point=5AC8FA&color=FFFFFF&area=true&area_color=0071E3" alt="Activity Graph" width="95%"/>
+</a>
+
+</div>
+
+<br>
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
