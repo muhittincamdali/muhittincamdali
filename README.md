@@ -245,6 +245,20 @@
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="30" /> &nbsp;Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=58A6FF)](https://github.com/piyushsuthar/github-readme-quotes)
+
+*↻ Refresh the page for a new quote!*
+
+</div>
+
+<br>
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+
 <!-- Spotify Now Playing -->
 <!-- To activate: Visit https://spotify-github-profile.kittinanx.com/api/login to authorize, -->
 <!-- then replace YOUR_SPOTIFY_ID with your Spotify user ID and uncomment the img tag below. -->
