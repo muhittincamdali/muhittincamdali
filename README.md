@@ -50,6 +50,35 @@
 
 <img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;My Journey
+
+<div align="center">
+
+> From writing my first `Hello World` in Objective-C to building spatial experiences for Vision Pro — it's been quite a ride.
+
+| Year | Milestone |
+|:----:|:----------|
+| 2015 | 📱 Started iOS development with Objective-C |
+| 2017 | 🔄 Transitioned to Swift, never looked back |
+| 2019 | 🏗️ Built first production app serving 10K+ users |
+| 2021 | 🎨 Fell in love with SwiftUI |
+| 2023 | 🥽 Early adopter of visionOS SDK |
+| 2024 | 🧊 Exploring Liquid Glass & iOS 26 |
+| 2025 | 🚀 60+ open source repos, building the future |
+
+<br>
+
+- 🎯 I believe great apps are **felt**, not just seen
+- ☕ Powered by Turkish coffee and curiosity
+- 📚 Always learning — currently deep into spatial computing
+- 🌍 Based in Istanbul, coding for the world
+
+</div>
+
+<br>
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" /> &nbsp;Currently Working On
 
 <div align="center">
