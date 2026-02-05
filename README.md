@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/🌍_Global_Users-100K+-5AC8FA?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=muhittincamdali&style=for-the-badge&color=0071E3&labelColor=0D1117&label=PROFILE+VIEWS"/>
+
 </div>
 
 <br>
@@ -61,6 +65,20 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" alt="Trophy" width="35" /> &nbsp;GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/muhittincamdali">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhittincamdali&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -178,12 +196,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
 
-## 📊 Top Languages
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/muhittincamdali">
+  <img src="https://streak-stats.demolab.com?user=muhittincamdali&theme=transparent&hide_border=true&ring=0071E3&fire=F05138&currStreakLabel=0071E3&sideLabels=FFFFFF&dates=888888&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/muhittincamdali">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=donut-vertical&theme=transparent&title_color=0071E3&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0071E3&height=2&section=header"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bar%20Chart.png" alt="Chart" width="30" /> &nbsp;Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/muhittincamdali">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhittincamdali&theme=react-dark&bg_color=0D1117&hide_border=true&line=0071E3&point=5AC8FA&color=FFFFFF&area=true&area_color=0071E3" alt="Contribution Graph" width="95%"/>
 </a>
 
 </div>
