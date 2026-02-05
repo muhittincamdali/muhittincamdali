@@ -177,8 +177,8 @@
 ![ARKit](https://img.shields.io/badge/ARKit-147EFB?style=flat-square&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
-<details>
-<summary><b>🔽 Expand Full Stack</b></summary>
+<details open>
+<summary><b>🔽 Full Stack</b></summary>
 <br>
 
 **iOS Frameworks**
@@ -290,7 +290,7 @@
 
 <!-- WakaTime stats will appear here once configured -->
 
-<details>
+<details open>
 <summary>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp;Contribution Graph & Activity
