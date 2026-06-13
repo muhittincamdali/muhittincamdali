@@ -44,7 +44,8 @@
 > From native Swift apps to cross-platform solutions, I focus on
 > pixel-perfect UIs, scalable architecture, and shipping quality software.
 > 
-> *"Obsessed with smooth 60fps experiences and turning ideas into production apps."*
+> **🛡️ CURRENT MISSION: 'The Endless March' (30/60)**
+> *I am currently purifying all 60 of my open-source repositories to world-class Swift 6 standards. 50% Complete.*
 
 </div>
 
