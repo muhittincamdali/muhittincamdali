@@ -1,0 +1,232 @@
+name: Profile graphics
+
+# Draws every image used by README.md and publishes them to the `output` branch.
+# A tool that fails or produces an invalid file publishes nothing, so the last
+# good version of its images stays online.
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "assets/**"
+      - "assets-src/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/profile-graphics.yml"
+
+permissions: {}
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
+
+env:
+  PROFILE_LOGIN: muhittincamdali
+
+jobs:
+  build:
+    name: Build ${{ matrix.tool }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        tool: [cards, snake, 3d]
+    env:
+      TOOL: ${{ matrix.tool }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts --no-audit --no-fund
+
+      # Pac-Man and Breakout are drawn here too: they are played from the same calendar read.
+      - name: Cards, chips, buttons, Pac-Man and Breakout
+        if: matrix.tool == 'cards'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node scripts/build-readme.mjs --check
+          node scripts/fetch-github.mjs
+          node scripts/render-cards.mjs
+          node scripts/render-arcade.mjs
+
+      - name: Snake colours
+        id: snake
+        if: matrix.tool == 'snake'
+        run: |
+          mkdir -p build/snake
+          {
+            echo 'outputs<<SNAKE_OUTPUTS'
+            node scripts/game-config.mjs snake build/snake
+            echo 'SNAKE_OUTPUTS'
+            echo 'compact<<SNAKE_OUTPUTS'
+            node scripts/game-config.mjs snake build/snake snake-compact
+            echo 'SNAKE_OUTPUTS'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Snake
+        if: matrix.tool == 'snake'
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ env.PROFILE_LOGIN }}
+          outputs: ${{ steps.snake.outputs.outputs }}
+
+      # The phone board is drawn by the same tool at the same commit, run directly with a preload
+      # that keeps the last 26 weeks of the calendar it reads (the action has no date range input).
+      - name: Snake tool source
+        if: matrix.tool == 'snake'
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: Platane/snk
+          ref: d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+          path: .tools/snk
+          persist-credentials: false
+
+      - name: Snake (phone board)
+        if: matrix.tool == 'snake'
+        env:
+          INPUT_GITHUB_USER_NAME: ${{ env.PROFILE_LOGIN }}
+          INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_OUTPUTS: ${{ steps.snake.outputs.compact }}
+          SNAKE_WEEKS: "26"
+        run: node --import ./scripts/recent-weeks.mjs .tools/snk/svg-only/dist/index.js
+
+      - name: 3D colours
+        if: matrix.tool == '3d'
+        run: node scripts/game-config.mjs 3d build/3d-settings.json
+
+      # Only the workflow token is used, so private repositories can never leak into the images.
+      - name: 3D contributions
+        if: matrix.tool == '3d'
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ env.PROFILE_LOGIN }}
+          SETTING_JSON: build/3d-settings.json
+
+      - name: Apply palette and frame
+        if: matrix.tool != 'cards'
+        run: |
+          case "$TOOL" in
+            snake) node scripts/postprocess.mjs snake build/snake ;;
+            3d) node scripts/postprocess.mjs 3d profile-3d-contrib ;;
+          esac
+
+      - name: Validate
+        run: node scripts/validate.mjs dist
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: graphics-${{ matrix.tool }}
+          path: dist/*.svg
+          if-no-files-found: error
+          retention-days: 7
+
+  publish:
+    name: Publish to output branch
+    needs: build
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts --no-audit --no-fund
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          pattern: graphics-*
+          path: incoming
+          merge-multiple: true
+
+      - name: Merge with the published files and validate
+        id: merge
+        run: |
+          if [ -z "$(ls -A incoming 2>/dev/null)" ]; then
+            echo "Nothing was built; keeping the published files." >&2
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          node scripts/validate.mjs incoming
+          mkdir out
+          if git ls-remote --exit-code --heads origin output > /dev/null; then
+            git fetch --depth=1 origin output
+            git archive FETCH_HEAD | tar -x -C out
+            echo "previous_tree=$(git rev-parse 'FETCH_HEAD^{tree}')" >> "$GITHUB_OUTPUT"
+          fi
+          # Only known file names stay, so a leftover from an older README cannot block publishing.
+          node scripts/prune-output.mjs out
+          # A fresh set of chips and buttons replaces the old one, so renamed items do not linger.
+          if [ -f incoming/hero-light.svg ]; then
+            find out -maxdepth 1 \( -name 'chip-*.svg' -o -name 'contact-*.svg' \) -delete
+          fi
+          cp incoming/*.svg out/
+          node scripts/validate.mjs out --readme
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # The branch is kept as a single commit so daily images do not grow the repository.
+      - name: Push
+        if: steps.merge.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PREVIOUS_TREE: ${{ steps.merge.outputs.previous_tree }}
+        working-directory: out
+        run: |
+          git init -q -b output
+          git add -A
+          if [ "$(git write-tree)" = "$PREVIOUS_TREE" ]; then
+            echo "Images unchanged."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -q -m "chore: update profile graphics"
+          auth="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
+          git -c "http.https://github.com/.extraheader=$auth" \
+            push --force "https://github.com/${GITHUB_REPOSITORY}.git" output
+
+      - name: Report failed builds
+        if: needs.build.result != 'success'
+        run: |
+          echo "At least one image failed to build; its previous version is still published." >&2
+          exit 1
+
+  # Scheduled workflows stop after 60 days without repository activity; this re-arms the schedule.
+  # It runs even when the other jobs failed, so a long run of failures cannot switch it off, and it
+  # is the only job that can change workflow settings.
+  keep-schedule:
+    name: Keep schedule enabled
+    needs: publish
+    if: ${{ always() && github.event_name == 'schedule' }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      actions: write
+    steps:
+      - name: Enable workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/profile-graphics.yml/enable"
