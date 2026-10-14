@@ -1,0 +1,21 @@
+{
+  "name": "muhittincamdali-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generators for the graphics shown on github.com/muhittincamdali",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-github.mjs",
+    "cards": "node scripts/render-cards.mjs",
+    "arcade": "node scripts/render-arcade.mjs",
+    "postprocess": "node scripts/postprocess.mjs",
+    "validate": "node scripts/validate.mjs dist"
+  },
+  "dependencies": {
+    "fast-xml-parser": "5.11.2",
+    "opentype.js": "1.3.4",
+    "simple-icons": "16.35.0"
+  }
+}

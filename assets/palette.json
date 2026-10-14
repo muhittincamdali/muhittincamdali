@@ -1,0 +1,100 @@
+{
+  "$comment": "Single source of colour for every generated graphic, all from one blue family. Brand blues come from the previous profile header (#0071E3 -> #5AC8FA) and muhittincamdali.com (#0A84FF, #0058D4, #64D2FF). Contribution data is always blue; level 1 keeps >= 1.5:1 against the empty cell so the most common level stays visible. The player (snake, Pac-Man, ball and paddle) is deep navy on light and ice white on dark, with a halo in the card colour so it stays apart from every cell. Language colours are set per language; each keeps 3:1 against the card and a clear colour difference from the others, and neighbouring bar segments aim for 3:1 between them (all checked at render time). Stack chips are a soft tint per theme; only the email button is solid blue.",
+  "brand": {
+    "blue": "#0071E3",
+    "blueBright": "#0A84FF",
+    "blueDeep": "#0058D4",
+    "navy": "#003A85",
+    "ink": "#00285C",
+    "sky": "#5AC8FA",
+    "skyLight": "#64D2FF",
+    "white": "#FFFFFF"
+  },
+  "chip": {
+    "light": {
+      "bg": "#EAF4FF",
+      "fg": "#0058D4",
+      "border": "#D0E2F7"
+    },
+    "dark": {
+      "bg": "#0B2E5C",
+      "fg": "#64D2FF",
+      "border": "#24476F"
+    },
+    "button": {
+      "from": "#0071E3",
+      "to": "#0058D4",
+      "fg": "#FFFFFF"
+    }
+  },
+  "light": {
+    "bg": "#FFFFFF",
+    "surface": "#F5F9FF",
+    "border": "#D0E2F7",
+    "text": "#0B1F33",
+    "muted": "#5A6B80",
+    "accent": "#0071E3",
+    "accentSoft": "#5AC8FA",
+    "eyebrow": "#0058D4",
+    "contrib": ["#EBEFF5", "#8CC4FF", "#4DA3FF", "#0071E3", "#003A85"],
+    "player": "#001547",
+    "halo": "#FFFFFF",
+    "heroFrom": "#EAF4FF",
+    "heroTo": "#D6EBFF",
+    "device": {
+      "bezel": "#0B1F33",
+      "screen": "#FFFFFF",
+      "line": "#D0E2F7",
+      "island": "#0B1F33"
+    },
+    "languages": {
+      "Swift": "#0071E3",
+      "Dart": "#001F4D",
+      "TypeScript": "#0A8BD6"
+    },
+    "languageSpare": ["#0058D4", "#003A85", "#0092D1"],
+    "languageOther": "#2E3846",
+    "shade": "#00285C",
+    "arcade": {
+      "ghosts": ["#0058D4", "#0A8BD6", "#4DA3FF", "#2E3846"],
+      "scared": "#A9B6C6",
+      "eye": "#FFFFFF",
+      "pupil": "#001547"
+    }
+  },
+  "dark": {
+    "bg": "#0D1117",
+    "surface": "#0B1626",
+    "border": "#1C3557",
+    "text": "#E6EDF3",
+    "muted": "#8FA3BC",
+    "accent": "#0A84FF",
+    "accentSoft": "#64D2FF",
+    "eyebrow": "#64D2FF",
+    "contrib": ["#15253C", "#0E4A8F", "#0062CC", "#0A84FF", "#64D2FF"],
+    "player": "#E6F7FF",
+    "halo": "#0D1117",
+    "heroFrom": "#04111F",
+    "heroTo": "#0A2A52",
+    "device": {
+      "bezel": "#1C3557",
+      "screen": "#0B1626",
+      "line": "#24476F",
+      "island": "#04111F"
+    },
+    "languages": {
+      "Swift": "#0071E3",
+      "Dart": "#99E0FF",
+      "TypeScript": "#0072A3"
+    },
+    "languageSpare": ["#64D2FF", "#3A8DFF", "#5AC8FA"],
+    "languageOther": "#C5CCD3",
+    "shade": "#04111F",
+    "arcade": {
+      "ghosts": ["#0A84FF", "#64D2FF", "#99E0FF", "#8FA3BC"],
+      "scared": "#3A4A60",
+      "eye": "#FFFFFF",
+      "pupil": "#04111F"
+    }
+  }
+}

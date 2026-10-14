@@ -1,0 +1,264 @@
+{
+  "login": "muhittincamdali",
+  "name": "Muhittin Camdali",
+  "tagline": "I build mobile products end to end — from architecture and backend to App Store release.",
+  "email": "muhittincamdali@gmail.com",
+  "stack": [
+    {
+      "group": "iOS",
+      "items": [
+        {
+          "label": "Swift",
+          "icon": "swift",
+          "url": "https://www.swift.org"
+        },
+        {
+          "label": "Objective-C",
+          "glyph": "brackets",
+          "url": "https://developer.apple.com/documentation/objectivec"
+        },
+        {
+          "label": "SwiftUI",
+          "glyph": "layers",
+          "url": "https://developer.apple.com/xcode/swiftui/"
+        },
+        {
+          "label": "UIKit",
+          "glyph": "window",
+          "url": "https://developer.apple.com/documentation/uikit"
+        },
+        {
+          "label": "Combine",
+          "glyph": "merge",
+          "url": "https://developer.apple.com/documentation/combine"
+        },
+        {
+          "label": "Core Data",
+          "glyph": "database",
+          "url": "https://developer.apple.com/documentation/coredata"
+        }
+      ]
+    },
+    {
+      "group": "Cross-platform & Android",
+      "items": [
+        {
+          "label": "Flutter",
+          "icon": "flutter",
+          "url": "https://flutter.dev"
+        },
+        {
+          "label": "React Native",
+          "icon": "react",
+          "url": "https://reactnative.dev"
+        },
+        {
+          "label": "Jetpack Compose",
+          "icon": "jetpackcompose",
+          "url": "https://developer.android.com/compose"
+        },
+        {
+          "label": "Android SDK",
+          "icon": "android",
+          "url": "https://developer.android.com"
+        },
+        {
+          "label": "TypeScript",
+          "icon": "typescript",
+          "url": "https://www.typescriptlang.org"
+        },
+        {
+          "label": "Dart",
+          "icon": "dart",
+          "url": "https://dart.dev"
+        }
+      ]
+    },
+    {
+      "group": "Backend",
+      "items": [
+        {
+          "label": "Node.js",
+          "icon": "nodedotjs",
+          "url": "https://nodejs.org"
+        },
+        {
+          "label": "NestJS",
+          "icon": "nestjs",
+          "url": "https://nestjs.com"
+        },
+        {
+          "label": "Python",
+          "icon": "python",
+          "url": "https://www.python.org"
+        },
+        {
+          "label": "PostgreSQL",
+          "icon": "postgresql",
+          "url": "https://www.postgresql.org"
+        },
+        {
+          "label": "Redis",
+          "icon": "redis",
+          "url": "https://redis.io"
+        },
+        {
+          "label": "Firebase",
+          "icon": "firebase",
+          "url": "https://firebase.google.com"
+        }
+      ]
+    },
+    {
+      "group": "AI & ML",
+      "items": [
+        {
+          "label": "Core ML",
+          "glyph": "network",
+          "url": "https://developer.apple.com/documentation/coreml"
+        },
+        {
+          "label": "Foundation Models",
+          "glyph": "sparkle",
+          "url": "https://developer.apple.com/documentation/foundationmodels"
+        },
+        {
+          "label": "RAG",
+          "glyph": "retrieve",
+          "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
+        },
+        {
+          "label": "AI agents",
+          "glyph": "flow",
+          "url": "https://en.wikipedia.org/wiki/Intelligent_agent"
+        }
+      ]
+    }
+  ],
+  "moreSkills": [
+    {
+      "group": "Apple SDKs & tooling",
+      "items": [
+        "Swift concurrency (async/await, Swift 6 strict mode)",
+        "SwiftData",
+        "WidgetKit",
+        "ActivityKit (Live Activities)",
+        "App Intents",
+        "HealthKit",
+        "CallKit",
+        "PushKit"
+      ]
+    },
+    {
+      "group": "Architecture & state",
+      "items": [
+        "Clean Architecture",
+        "MVVM",
+        "BLoC",
+        "Riverpod",
+        "modular architecture",
+        "monorepos"
+      ]
+    },
+    {
+      "group": "Languages & interop",
+      "items": [
+        "JavaScript",
+        "Kotlin (native modules)",
+        "platform channels",
+        "Android-to-iOS app porting"
+      ]
+    },
+    {
+      "group": "APIs & infrastructure",
+      "items": [
+        "GraphQL",
+        "WebSocket",
+        "Socket.IO",
+        "FastAPI",
+        "BullMQ",
+        "Docker",
+        "OpenTelemetry"
+      ]
+    },
+    {
+      "group": "Applied AI",
+      "items": [
+        "generative AI",
+        "tool calling",
+        "multi-agent workflows",
+        "LightGBM"
+      ]
+    },
+    {
+      "group": "Real-time & communication",
+      "items": [
+        "VoIP",
+        "Twilio",
+        "real-time messaging and chat",
+        "video and voice calling",
+        "push notifications (APNs, FCM)",
+        "deep linking"
+      ]
+    },
+    {
+      "group": "Payments & monetization",
+      "items": [
+        "in-app purchases and subscriptions (StoreKit 2, Google Play Billing Library)",
+        "server-side purchase verification",
+        "RevenueCat",
+        "Stripe",
+        "Google Pay",
+        "iyzico",
+        "bank payment gateways (virtual POS)"
+      ]
+    },
+    {
+      "group": "Testing, quality & security",
+      "items": [
+        "XCTest",
+        "Swift Testing",
+        "Flutter unit, widget, golden and integration tests",
+        "Playwright",
+        "Firebase Crashlytics",
+        "Instruments",
+        "App Attest",
+        "Firebase App Check"
+      ]
+    },
+    {
+      "group": "CI/CD & release",
+      "items": [
+        "GitHub Actions",
+        "Bitrise",
+        "fastlane",
+        "TestFlight",
+        "App Store Connect",
+        "Google Play Console",
+        "code signing and provisioning",
+        "privacy manifests"
+      ]
+    },
+    {
+      "group": "Product & UX",
+      "items": [
+        "UI/UX design (Figma, Sketch)",
+        "Human Interface Guidelines",
+        "accessibility",
+        "localization (20+ languages)",
+        "app performance",
+        "Remote Config (A/B testing)"
+      ]
+    },
+    {
+      "group": "Process & leadership",
+      "items": [
+        "Agile/Scrum",
+        "code review",
+        "team leadership",
+        "mentoring",
+        "client management"
+      ]
+    }
+  ]
+}
