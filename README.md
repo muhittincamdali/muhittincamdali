@@ -1,394 +1,118 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-6.0-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift 6.0"/>
-  <img src="https://img.shields.io/badge/Platform-iOS%20|%20macOS%20|%20visionOS-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Standard-Unified%20Core-5856D6?style=for-the-badge" alt="Standard"/>
+<p><picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-light.svg" alt="Muhittin Camdali: I build mobile products end to end — from architecture and backend to App Store release."></picture></p>
+
+I have been building mobile apps for 12+ years: 60+ apps shipped, with 1M+ cumulative downloads and 99%+ crash-free rates. My work spans payments and subscriptions, real-time messaging and calling, and AI-powered features, and I have led teams of up to 6.
+
+### Now
+
+Rebuilding my open-source Swift packages with tests, DocC documentation and CI.
+
+### Stack
+
+<p><b>iOS</b><br>
+<a href="https://www.swift.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-swift-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-swift-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-swift-light.svg" alt="Swift"></picture></a>
+<a href="https://developer.apple.com/documentation/objectivec"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-objective-c-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-objective-c-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-objective-c-light.svg" alt="Objective-C"></picture></a>
+<a href="https://developer.apple.com/xcode/swiftui/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-swiftui-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-swiftui-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-swiftui-light.svg" alt="SwiftUI"></picture></a>
+<a href="https://developer.apple.com/documentation/uikit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-uikit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-uikit-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-uikit-light.svg" alt="UIKit"></picture></a>
+<a href="https://developer.apple.com/documentation/combine"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-combine-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-combine-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-combine-light.svg" alt="Combine"></picture></a>
+<a href="https://developer.apple.com/documentation/coredata"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-core-data-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-core-data-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-core-data-light.svg" alt="Core Data"></picture></a>
 </p>
 
----
+<p><b>Cross-platform &amp; Android</b><br>
+<a href="https://flutter.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-flutter-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-flutter-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-flutter-light.svg" alt="Flutter"></picture></a>
+<a href="https://reactnative.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-react-native-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-react-native-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-react-native-light.svg" alt="React Native"></picture></a>
+<a href="https://developer.android.com/compose"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-jetpack-compose-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-jetpack-compose-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-jetpack-compose-light.svg" alt="Jetpack Compose"></picture></a>
+<a href="https://developer.android.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-android-sdk-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-android-sdk-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-android-sdk-light.svg" alt="Android SDK"></picture></a>
+<a href="https://www.typescriptlang.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-typescript-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-typescript-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-typescript-light.svg" alt="TypeScript"></picture></a>
+<a href="https://dart.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-dart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-dart-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-dart-light.svg" alt="Dart"></picture></a>
+</p>
 
-> **🛡️ PART OF THE 2026 UNIFIED CORE**
-> This repository is a verified component of 'The Endless March' initiative. Purified for Swift 6, zero-dependency, and engineered for maximum hardware saturation.
-> 
-> *Flagship Engines:* [SwiftNetwork](https://github.com/muhittincamdali/SwiftNetwork) | [SwiftAI](https://github.com/muhittincamdali/SwiftAI) | [LiquidGlassKit](https://github.com/muhittincamdali/LiquidGlassKit)
+<p><b>Backend</b><br>
+<a href="https://nodejs.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-node-js-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-node-js-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-node-js-light.svg" alt="Node.js"></picture></a>
+<a href="https://nestjs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-nestjs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-nestjs-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-nestjs-light.svg" alt="NestJS"></picture></a>
+<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-python-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-python-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-python-light.svg" alt="Python"></picture></a>
+<a href="https://www.postgresql.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-postgresql-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-postgresql-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-postgresql-light.svg" alt="PostgreSQL"></picture></a>
+<a href="https://redis.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-redis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-redis-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-redis-light.svg" alt="Redis"></picture></a>
+<a href="https://firebase.google.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-firebase-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-firebase-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-firebase-light.svg" alt="Firebase"></picture></a>
+</p>
 
----
+<p><b>AI &amp; ML</b><br>
+<a href="https://developer.apple.com/documentation/coreml"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-core-ml-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-core-ml-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-core-ml-light.svg" alt="Core ML"></picture></a>
+<a href="https://developer.apple.com/documentation/foundationmodels"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-foundation-models-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-foundation-models-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-foundation-models-light.svg" alt="Foundation Models"></picture></a>
+<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-rag-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-rag-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-rag-light.svg" alt="RAG"></picture></a>
+<a href="https://en.wikipedia.org/wiki/Intelligent_agent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-ai-agents-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-ai-agents-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/chip-ai-agents-light.svg" alt="AI agents"></picture></a>
+</p>
 
-<div align="center">
-  <img src="assets/header.svg" width="100%" alt="Muhittin Çamdalı - Senior iOS & Mobile Developer" />
-</div>
+<details>
+<summary><b>More skills</b></summary>
 
-<div align="center">
+<p><b>Apple SDKs &amp; tooling</b><br>
+Swift concurrency (async/await, Swift 6 strict mode) · SwiftData · WidgetKit · ActivityKit (Live Activities) · App Intents · HealthKit · CallKit · PushKit</p>
 
-<a href="https://www.muhittincamdali.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Senior+iOS+Developer+%7C+10%2B+Years+of+Experience;Building+production+apps+with+Swift+%26+SwiftUI;Flutter+%26+Cross-Platform+Mobile+Developer;60+Open+Source+Repos+%7C+iOS+Framework+Builder;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<p><b>Architecture &amp; state</b><br>
+Clean Architecture · MVVM · BLoC · Riverpod · Modular architecture · Monorepos</p>
 
-<br><br>
+<p><b>Languages &amp; interop</b><br>
+JavaScript · Kotlin (native modules) · Platform channels · Android-to-iOS app porting</p>
 
-<a href="https://www.muhittincamdali.com">
-  <img src="https://img.shields.io/badge/⏱️_Experience-10+_Years-0071E3?style=for-the-badge&labelColor=0D1117" alt="10+ years experience"/>
-</a>
-&nbsp;
-<a href="https://github.com/muhittincamdali?tab=repositories">
-  <img src="https://img.shields.io/badge/📦_Open_Source_Repos-60+-147EFB?style=for-the-badge&labelColor=0D1117" alt="60+ open source repositories"/>
-</a>
-&nbsp;
-<a href="https://github.com/muhittincamdali?tab=repositories">
-  <img src="https://img.shields.io/badge/🍎_Primary_Language-Swift-F05138?style=for-the-badge&labelColor=0D1117" alt="Primary language Swift"/>
-</a>
+<p><b>APIs &amp; infrastructure</b><br>
+GraphQL · WebSocket · Socket.IO · FastAPI · BullMQ · Docker · OpenTelemetry</p>
 
-<br><br>
+<p><b>Applied AI</b><br>
+Generative AI · Tool calling · Multi-agent workflows · LightGBM</p>
 
-<img src="https://komarev.com/ghpvc/?username=muhittincamdali&style=for-the-badge&color=0071E3&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile views counter"/>
+<p><b>Real-time &amp; communication</b><br>
+VoIP · Twilio · Real-time messaging and chat · Video and voice calling · Push notifications (APNs, FCM) · Deep linking</p>
 
-</div>
+<p><b>Payments &amp; monetization</b><br>
+In-app purchases and subscriptions (StoreKit 2, Google Play Billing Library) · Server-side purchase verification · RevenueCat · Stripe · Google Pay · iyzico · Bank payment gateways (virtual POS)</p>
 
-<br>
+<p><b>Testing, quality &amp; security</b><br>
+XCTest · Swift Testing · Flutter unit, widget, golden and integration tests · Playwright · Firebase Crashlytics · Instruments · App Attest · Firebase App Check</p>
 
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<p><b>CI/CD &amp; release</b><br>
+GitHub Actions · Bitrise · fastlane · TestFlight · App Store Connect · Google Play Console · Code signing and provisioning · Privacy manifests</p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" /> &nbsp;About Me
+<p><b>Product &amp; UX</b><br>
+UI/UX design (Figma, Sketch) · Human Interface Guidelines · Accessibility · Localization (20+ languages) · App performance · Remote Config (A/B testing)</p>
 
-<div align="center">
+<p><b>Process &amp; leadership</b><br>
+Agile/Scrum · Code review · Team leadership · Mentoring · Client management</p>
 
-> **🎯 Senior iOS & Mobile Developer**
-> 
-> 📍 Istanbul, Turkey &nbsp;•&nbsp; 🌐 [muhittincamdali.com](https://www.muhittincamdali.com)
-> 
-> Building clean, performant mobile applications across iOS and Flutter.
-> From native Swift apps to cross-platform solutions, I focus on
-> pixel-perfect UIs, scalable architecture, and shipping quality software.
-> 
-> **🛡️ CURRENT MISSION: 'The Endless March' (30/60)**
-> *I am currently purifying all 60 of my open-source repositories to world-class Swift 6 standards. 50% Complete.*
+</details>
 
-</div>
+### By the numbers
 
-<br>
+<p><picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/numbers-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/numbers-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/numbers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/numbers-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/numbers-light.svg" alt="Stars and forks of my repositories, my longest daily contribution streak, my active days over the past year and the languages of my public repositories by code size, updated daily."></picture></p>
 
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+### Contributions
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;My Journey
+My recent GitHub contributions, played as Snake.
 
-<div align="center">
+<picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-light.svg" alt="Snake game eating my GitHub contribution calendar."></picture>
 
-> From writing my first `Hello World` in Objective-C to building cross-platform mobile apps — it's been quite a ride.
+<p><b>Arcade</b>: three more takes on the same calendar.</p>
 
-| Year | Milestone |
-|:----:|:----------|
-| 2015 | 📱 Started iOS development with Objective-C |
-| 2017 | 🔄 Transitioned to Swift, never looked back |
-| 2019 | 🏗️ Built first production app serving 10K+ users |
-| 2021 | 🎨 Fell in love with SwiftUI |
-| 2023 | 🦋 Started Flutter & cross-platform development |
-| 2024 | 🚀 60+ open source repos, building mobile frameworks |
+<details>
+<summary><b>Pac-Man</b>: every active day is a pellet</summary>
 
-</div>
+<picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/pacman-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/pacman-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/pacman-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/pacman-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/pacman-light.svg" alt="Pac-Man game clearing the pellets of my GitHub contribution calendar while four ghosts roam the board."></picture>
 
-<br>
+</details>
 
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
+<details>
+<summary><b>Breakout</b>: one brick per active day, cleared to the last one</summary>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" /> &nbsp;Currently Working On
+<picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-light.svg" alt="Breakout game breaking my GitHub contribution calendar brick by brick."></picture>
 
-<div align="center">
+</details>
 
-| &nbsp; | Project | Description |
-|:---:|:---|:---|
-| 🦋 | [**FlutterForge**](https://github.com/muhittincamdali/FlutterForge) | Production-ready Flutter project template & starter kit |
-| ⚡ | [**iOS-Performance-Optimization-Toolkit**](https://github.com/muhittincamdali/iOS-Performance-Optimization-Toolkit) | Performance profiling & optimization tools for iOS apps |
-| 🚀 | [**iOSAppTemplates**](https://github.com/muhittincamdali/iOSAppTemplates) | Production-ready iOS app templates with best practices |
-| 🎨 | [**SwiftUI-Design-System-Pro**](https://github.com/muhittincamdali/SwiftUI-Design-System-Pro) | Complete design system with tokens and theming |
+<details>
+<summary><b>3D skyline</b>: busier days stand taller</summary>
 
-</div>
-
-<br>
-
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
-
-<details open>
-<summary>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Featured Projects
-
-</summary>
-
-<div align="center">
-
-<a href="https://github.com/muhittincamdali/iOSAppTemplates">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOSAppTemplates&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOSAppTemplates&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="iOSAppTemplates" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOSAppTemplates&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/muhittincamdali/iOS-Widget-Development-Kit">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOS-Widget-Development-Kit&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOS-Widget-Development-Kit&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="iOS-Widget-Development-Kit" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=iOS-Widget-Development-Kit&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
-</a>
-
-<a href="https://github.com/muhittincamdali/SwiftUI-Design-System-Pro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Design-System-Pro&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Design-System-Pro&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="SwiftUI-Design-System-Pro" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Design-System-Pro&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/muhittincamdali/SwiftAI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftAI&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftAI&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="SwiftAI" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftAI&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
-</a>
-
-<a href="https://github.com/muhittincamdali/SwiftIntelligence">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftIntelligence&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftIntelligence&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="SwiftIntelligence" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftIntelligence&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/muhittincamdali/SwiftUI-Data-Visualization">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Data-Visualization&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Data-Visualization&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true" />
-    <img alt="SwiftUI-Data-Visualization" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=muhittincamdali&repo=SwiftUI-Data-Visualization&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true" />
-  </picture>
-</a>
-
-<br>
-
-<a href="https://github.com/muhittincamdali?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_60+_Repos_→-0071E3?style=for-the-badge&labelColor=0D1117" alt="All Repos"/>
-</a>
-
-</div>
+<picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-light.svg" alt="3D chart of my GitHub contribution calendar, with month labels."></picture>
 
 </details>
 
 <br>
 
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Stack
-
-<div align="center">
-
-### Core
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=flat-square&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=apple&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData-0071E3?style=flat-square&logo=apple&logoColor=white)
-![ARKit](https://img.shields.io/badge/ARKit-147EFB?style=flat-square&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-
-<details open>
-<summary><b>🔽 Full Stack</b></summary>
-<br>
-
-**iOS Frameworks**
-
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
-![AVFoundation](https://img.shields.io/badge/AVFoundation-147EFB?style=flat-square&logo=apple&logoColor=white)
-![Core Animation](https://img.shields.io/badge/Core_Animation-3A96D3?style=flat-square&logo=apple&logoColor=white)
-![WidgetKit](https://img.shields.io/badge/WidgetKit-3A96D3?style=flat-square&logo=apple&logoColor=white)
-![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
-![StoreKit](https://img.shields.io/badge/StoreKit-147EFB?style=flat-square&logo=apple&logoColor=white)
-![Core Location](https://img.shields.io/badge/Core_Location-147EFB?style=flat-square&logo=apple&logoColor=white)
-![Core Bluetooth](https://img.shields.io/badge/Core_Bluetooth-3A96D3?style=flat-square&logo=apple&logoColor=white)
-![Push Notifications](https://img.shields.io/badge/APNs-FF3B30?style=flat-square&logo=apple&logoColor=white)
-![Alamofire](https://img.shields.io/badge/Alamofire-F05138?style=flat-square&logo=swift&logoColor=white)
-![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-
-**Flutter & Cross-Platform**
-
-![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square&logo=flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat-square&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B16FF?style=flat-square&logo=flutter&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFCA28?style=flat-square&logo=hive&logoColor=black)
-![go_router](https://img.shields.io/badge/go__router-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Backend & Cloud**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0071E3?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Architecture**
-
-![MVVM](https://img.shields.io/badge/MVVM-0071E3?style=flat-square&logo=dotnet&logoColor=white)
-![VIPER](https://img.shields.io/badge/VIPER-147EFB?style=flat-square&logo=v&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3A96D3?style=flat-square&logo=apple&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-147EFB?style=flat-square&logo=solid&logoColor=white)
-![Protocol-Oriented](https://img.shields.io/badge/Protocol_Oriented-F05138?style=flat-square&logo=swift&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![SPM](https://img.shields.io/badge/SPM-F05138?style=flat-square&logo=swift&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0071E3?style=flat-square&logo=apple&logoColor=white)
-
-**Real-Time**
-
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![VoIP](https://img.shields.io/badge/VoIP-0071E3?style=flat-square&logo=vonage&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-</details>
-
-</div>
-
-<br>
-
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
-
-<details open>
-<summary>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> &nbsp;GitHub Stats
-
-</summary>
-
-<div align="center">
-
-<a href="https://github.com/muhittincamdali">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=muhittincamdali&show_icons=true&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=muhittincamdali&show_icons=true&title_color=0071E3&text_color=333333&icon_color=0071E3&bg_color=ffffff&hide_border=true&rank_icon=github" />
-    <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhittincamdali&show_icons=true&title_color=58A6FF&text_color=FFFFFF&icon_color=5AC8FA&bg_color=0D1117&hide_border=true&rank_icon=github" />
-  </picture>
-</a>
-
-<br>
-
-<a href="https://github.com/muhittincamdali">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=muhittincamdali&theme=transparent&hide_border=true&ring=0071E3&fire=F05138&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=888888&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=muhittincamdali&theme=transparent&hide_border=true&ring=0071E3&fire=F05138&currStreakLabel=0071E3&sideLabels=333333&dates=666666&background=ffffff&currStreakNum=333333&sideNums=333333" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=muhittincamdali&theme=transparent&hide_border=true&ring=0071E3&fire=F05138&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=888888&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  </picture>
-</a>
-
-<br>
-
-<a href="https://github.com/muhittincamdali">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&title_color=0071E3&text_color=333333&bg_color=ffffff&hide_border=true&langs_count=8" />
-    <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhittincamdali&layout=compact&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8" />
-  </picture>
-</a>
-
-</div>
-
-</details>
-
-<br>
-
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
-
-<!-- WakaTime stats will appear here once configured -->
-
-<details open>
-<summary>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp;Contribution Graph & Activity
-
-</summary>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/muhittincamdali">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhittincamdali&theme=react-dark&bg_color=0D1117&hide_border=true&line=0071E3&point=5AC8FA&color=FFFFFF&area=true&area_color=0071E3" alt="Activity Graph" width="95%"/>
-</a>
-
-</div>
-
-</details>
-
-<br>
-
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="30" /> &nbsp;Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=58A6FF)](https://github.com/piyushsuthar/github-readme-quotes)
-
-*↻ Refresh the page for a new quote!*
-
-</div>
-
-<br>
-
-<img alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:0071E3,100:5AC8FA&height=2&section=header"/>
-
-<!-- Spotify Now Playing -->
-<!-- To activate: Visit https://spotify-github-profile.kittinanx.com/api/login to authorize, -->
-<!-- then replace YOUR_SPOTIFY_ID with your Spotify user ID and uncomment the img tag below. -->
-<!-- <div align="center"> -->
-<!--   <a href="https://spotify-github-profile.kittinanx.com"> -->
-<!--     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=0071E3&bar_color_cover=true" alt="Spotify Now Playing" /> -->
-<!--   </a> -->
-<!-- </div> -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> &nbsp;Connect With Me
-
-<div align="center">
-
-**💬 Open to collaboration on iOS, Flutter & mobile projects!**
-
-<br>
-
-<a href="https://www.muhittincamdali.com">
-  <img src="https://img.shields.io/badge/WEBSITE-muhittincamdali.com-0071E3?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Website"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/muhittincamdali">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://x.com/muhittincamdali">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X (Twitter)"/>
-</a>
-&nbsp;
-<a href="mailto:contact@muhittincamdali.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-</a>
-
-</div>
-
-<br>
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0071E3&height=120&section=footer"/>
-
-## 🚀 Killer Feature: The 2026 Standard
-This repository has been upgraded to the absolute global #1 standard in its category.
+<a href="mailto:muhittincamdali@gmail.com"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/contact-email.svg" alt="Email: muhittincamdali@gmail.com"></a>
