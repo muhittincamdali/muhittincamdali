@@ -159,9 +159,15 @@ function placedLabels(svg, view) {
     const width = measure(label.text, { weight: 'medium', size });
     return { ...label, size, width, baseline: shearY(label.x, label.y) + (LABEL.gap + LABEL.cap) * view.labelSize * unit };
   });
+  const overlaps = (left, right) => right.x - right.width / 2 < left.x + left.width / 2 + 4 * unit;
+  // The first label is longer because it carries the year, so when its month starts only four weeks
+  // before the next one the two run into each other. The year label stays and the month next to it
+  // is left out: the chart keeps its year, and every other label keeps its place.
+  while (placed.length > 1 && overlaps(placed[0], placed[1])) placed.splice(1, 1);
+  if (placed.length < view.minLabels) throw new Error(`3D calendar: only ${placed.length} month labels`);
   placed.slice(1).forEach((label, index) => {
     const previous = placed[index];
-    if (label.x - label.width / 2 < previous.x + previous.width / 2 + 4 * unit) throw new Error(`3D labels "${previous.text}" and "${label.text}" overlap`);
+    if (overlaps(previous, label)) throw new Error(`3D labels "${previous.text}" and "${label.text}" overlap`);
   });
   return placed;
 }
