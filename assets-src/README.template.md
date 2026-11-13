@@ -16,11 +16,18 @@ Rebuilding my open-source Swift packages with tests, DocC documentation and CI.
 
 ### Contributions
 
-My recent GitHub contributions, played as Snake.
+<p><b>3D skyline</b>: busier days stand taller</p>
+
+{{PICTURE+COMPACT:3d:3D chart of my GitHub contribution calendar, with month labels.}}
+
+<p><b>Arcade</b>: three more takes on the same calendar.</p>
+
+<details>
+<summary><b>Snake</b>: my recent contributions, eaten one square at a time</summary>
 
 {{PICTURE+COMPACT:snake:Snake game eating my GitHub contribution calendar.}}
 
-<p><b>Arcade</b>: three more takes on the same calendar.</p>
+</details>
 
 <details>
 <summary><b>Pac-Man</b>: every active day is a pellet</summary>
@@ -33,13 +40,6 @@ My recent GitHub contributions, played as Snake.
 <summary><b>Breakout</b>: one brick per active day, cleared to the last one</summary>
 
 {{PICTURE+COMPACT:breakout:Breakout game breaking my GitHub contribution calendar brick by brick.}}
-
-</details>
-
-<details>
-<summary><b>3D skyline</b>: busier days stand taller</summary>
-
-{{PICTURE+COMPACT:3d:3D chart of my GitHub contribution calendar, with month labels.}}
 
 </details>
 

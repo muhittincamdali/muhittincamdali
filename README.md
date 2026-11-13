@@ -1,4 +1,4 @@
-<p><picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-light.svg" alt="Muhittin Camdali: I build mobile products end to end — from architecture and backend to App Store release."></picture></p>
+<p><picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-light.svg" alt="Muhittin Camdali: I build mobile products end to end, from architecture and backend to App Store release."></picture></p>
 
 I have been building mobile apps for 12+ years: 60+ apps shipped, with 1M+ cumulative downloads and 99%+ crash-free rates. My work spans payments and subscriptions, real-time messaging and calling, and AI-powered features, and I lead teams.
 
@@ -86,11 +86,18 @@ Agile/Scrum · Code review · Team leadership · Mentoring · Client management<
 
 ### Contributions
 
-My recent GitHub contributions, played as Snake.
+<p><b>3D skyline</b>: busier days stand taller</p>
+
+<picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-light.svg" alt="3D chart of my GitHub contribution calendar, with month labels."></picture>
+
+<p><b>Arcade</b>: three more takes on the same calendar.</p>
+
+<details>
+<summary><b>Snake</b>: my recent contributions, eaten one square at a time</summary>
 
 <picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/snake-light.svg" alt="Snake game eating my GitHub contribution calendar."></picture>
 
-<p><b>Arcade</b>: three more takes on the same calendar.</p>
+</details>
 
 <details>
 <summary><b>Pac-Man</b>: every active day is a pellet</summary>
@@ -103,13 +110,6 @@ My recent GitHub contributions, played as Snake.
 <summary><b>Breakout</b>: one brick per active day, cleared to the last one</summary>
 
 <picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/breakout-light.svg" alt="Breakout game breaking my GitHub contribution calendar brick by brick."></picture>
-
-</details>
-
-<details>
-<summary><b>3D skyline</b>: busier days stand taller</summary>
-
-<picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/3d-light.svg" alt="3D chart of my GitHub contribution calendar, with month labels."></picture>
 
 </details>
 
