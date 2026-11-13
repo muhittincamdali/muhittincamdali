@@ -1,6 +1,6 @@
 <p>{{HERO}}</p>
 
-I have been building mobile apps for 12+ years: 60+ apps shipped, with 1M+ cumulative downloads and 99%+ crash-free rates. My work spans payments and subscriptions, real-time messaging and calling, and AI-powered features, and I have led teams of up to 6.
+I have been building mobile apps for 12+ years: 60+ apps shipped, with 1M+ cumulative downloads and 99%+ crash-free rates. My work spans payments and subscriptions, real-time messaging and calling, and AI-powered features, and I lead teams.
 
 ### Now
 

@@ -1,6 +1,6 @@
 <p><picture><source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-compact-dark.svg"><source media="(max-width: 1011px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-light.svg"><img src="https://raw.githubusercontent.com/muhittincamdali/muhittincamdali/output/hero-light.svg" alt="Muhittin Camdali: I build mobile products end to end — from architecture and backend to App Store release."></picture></p>
 
-I have been building mobile apps for 12+ years: 60+ apps shipped, with 1M+ cumulative downloads and 99%+ crash-free rates. My work spans payments and subscriptions, real-time messaging and calling, and AI-powered features, and I have led teams of up to 6.
+I have been building mobile apps for 12+ years: 60+ apps shipped, with 1M+ cumulative downloads and 99%+ crash-free rates. My work spans payments and subscriptions, real-time messaging and calling, and AI-powered features, and I lead teams.
 
 ### Now
 
